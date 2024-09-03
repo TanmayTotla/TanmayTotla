@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanmayTotla
-- 👀 I’m interested in AppDev , AI/ML , competitive programming
+- 👀 I’m interested in AI/Ml and WebDev
 - 🌱 I’m currently learning AppDev
 - 📫 Mail me on t.totla@iitg.ac.in
 
